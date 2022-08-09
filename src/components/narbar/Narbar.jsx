@@ -10,10 +10,7 @@ import HotelOutlinedIcon from "@mui/icons-material/HotelOutlined";
 import DirectionsCarFilledOutlinedIcon from "@mui/icons-material/DirectionsCarFilledOutlined";
 import ReactCountryFlag from "react-country-flag";
 import CheckCircleOutlineIcon from "@mui/icons-material/CheckCircleOutline";
-import Snackbar from "@mui/material/Snackbar";
-import MuiAlert, { AlertProps } from "@mui/material/Alert";
 import "./navbar.css";
-import { display } from "@mui/system";
 import { NavLink } from "react-router-dom";
 
 function Narbar() {
